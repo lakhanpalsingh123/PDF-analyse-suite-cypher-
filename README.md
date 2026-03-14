@@ -1,5 +1,4 @@
-# PDF-analyse-suite-
-# the code--
+# PDF-analyse-This will use professional company standard technique’s to scan and analyse malicious pdf files and the hidden Trojan within it
 
 import customtkinter as ctk
 from tkinter import filedialog, messagebox
